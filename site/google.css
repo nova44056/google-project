@@ -43,9 +43,9 @@ button{
     cursor: pointer;
 }
 
-.google-image img{
+.google-image{
     width: 272px;
-    height: 93px;
+    height: 92px;
 }
 
 #search{
